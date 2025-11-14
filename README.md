@@ -1,11 +1,11 @@
-# GAME_PROGRAM-EX--8
+# EXP:1 - Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 
 ### Name : Sai Hrishi M
 ### Reg No : 212224240140
 
 ## Aim :
 
-To create a basic material with emissive, metallic and roughness preperties and add it to a mesh.
+To create a basic material with emissive, roughness and metallic preperties and add it to a mesh.
 
 ## Software Required :
 
@@ -41,4 +41,4 @@ To create a basic material with emissive, metallic and roughness preperties and 
 
 ## Result :
 
-Thus we have successfully created a basic material with metallic, roughness ans emissive properties.
+Thus we have successfully created a basic material with emissive, roughness and metallic properties.
